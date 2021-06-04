@@ -1,10 +1,11 @@
 # Proedge Task
 
-## Backend API (hosted on heroku)
+## Frontend (hosted on heroku)
 
 https://proedge-frontend.herokuapp.com/
 
-backend https://github.com/alokgoldy/proedge-backend
+## Backend https://github.com/alokgoldy/proedge-backend
+
 This repository is Frontend part of Proedge Task
 App.js file contains all the logic part of the project.
 Fetch API is used to get data from backend.
