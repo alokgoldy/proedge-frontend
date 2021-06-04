@@ -43,7 +43,7 @@ function App() {
       setLoading(false);
       return
     }
-    var data = await fetch('http://localhost:5000/result/'+value,{
+    var data = await fetch('https://proedge-backend.herokuapp.com/result/'+value,{
       method:"GET",
       headers: {"Content-type":"application/json"}
     })
