@@ -1,8 +1,6 @@
 # Proedge Task
 
-## Frontend (hosted on heroku)
-
-https://proedge-frontend.herokuapp.com/
+## Frontend https://proedge-frontend.herokuapp.com/
 
 ## Backend https://github.com/alokgoldy/proedge-backend
 
